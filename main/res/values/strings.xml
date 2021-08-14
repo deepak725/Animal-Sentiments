@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AnimalSentimentsApp</string>
+    <string name="login_text">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="capture">Capture</string>
+    <string name="your_pet_s_image">Your Pet\'s Image</string>
+    <string name="dog_cat_image">TODO</string>
+    <string name="share">Share</string>
+    <string name="your_pet_seems">Oh! Your Pet Seems -</string>
+    <string name="select_your_pet">Select Your Pet</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="Upload">Upload From Device </string>
+    <string name="Next">Next</string>
+    <string name="Hint">Email-Id</string>
+    <string name="namehint">Name</string>
+    <string name="register">register</string>
+    <string name="passwordhint">password</string>
+    <string name="reenterpassword">Re-enter password</string>
+    <string name="register2">register</string>
+    <string name="ques">Dont have an Account?</string>
+    <string name="textview7">Back to login screen.</string>
+    <string name="login1">Email-Id</string>>
+</resources>
